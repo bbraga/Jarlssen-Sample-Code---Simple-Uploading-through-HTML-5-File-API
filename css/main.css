@@ -1,0 +1,18 @@
+body, td {
+  
+}
+
+a {
+}
+
+a:hover {
+}
+
+p.upload-green{
+    color: green;     
+}
+
+p.upload-red{
+    color: red;
+    font-weight: bold;
+}

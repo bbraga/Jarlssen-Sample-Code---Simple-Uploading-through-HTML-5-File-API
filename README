@@ -1,0 +1,18 @@
+******************************************************************************************
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send 
+a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+Copyright 2011 @ Bruno Braga
+******************************************************************************************
+
+This package contains a sample application I did for Jarlssen as a followup to an Interview Task.
+
+Task:
+
+	Please make a running prototype of a web upload form to validate a file before uploading it completly to the server. Check if the file size is greater than a given max size and check if file type is an image or pdf. This all is useful, if the file size is huge.
+
+	Some hints for you:
+		- you can use the javascript FILE API
+		- please do not use jquery for this
+		- please use PHP as serverside scripting language
